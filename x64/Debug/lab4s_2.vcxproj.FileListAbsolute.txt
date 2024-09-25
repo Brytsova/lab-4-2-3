@@ -1,0 +1,3 @@
+D:\Лабораторні роботи 4 курс інформатика\lab1\lab4s_2\lab4s_2\x64\Debug\lab4s_2.vcxproj.AssemblyReference.cache
+D:\Лабораторні роботи 4 курс інформатика\lab1\lab4s_2\lab4s_2\x64\Debug\lab4s2.MyForm.resources
+D:\Лабораторні роботи 4 курс інформатика\lab1\lab4s_2\lab4s_2\x64\Debug\lab4s_2.vcxproj.GenerateResource.cache
